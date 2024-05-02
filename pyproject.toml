@@ -8,7 +8,7 @@ version = "0.0.1"
 authors = [
   { name="Daniel Markusson", email="markussondan@gmail.com" },
 ]
-description = ""
+description = "A graphing calculator library based on the ti84."
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
